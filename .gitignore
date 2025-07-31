@@ -1,0 +1,10 @@
+.vscode
+build
+install
+log
+*logs/
+mav.*
+eeprom.bin
+terrain
+*__pycache__
+.idea
